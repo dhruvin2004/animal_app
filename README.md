@@ -15,7 +15,6 @@ A few resources to get you started if this is your first Flutter project:
     <td> <img src="lib/gif/animal.gif"  alt="1" width = 360px height = 640px ></td>
   </tr>
 </table>
-- ![1]()
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
